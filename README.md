@@ -1,9 +1,15 @@
 ### Project completed on 11-Feb-2024
 # Gadget Shop Management System
 
-A comprehensive C++ based management system for handling gadget shop operations, including wholesalers, retailers, and product management. Done in CodeBlocks IDE.
+A comprehensive C++ based management system for handling gadget shop operations, including wholesalers, retailers, and product management. Done in Code::Blocks IDE.
 
 ![System Diagram](images/Gadget_Shop_diagram.jpg)
+
+## How to Run
+
+1. Ensure you have Code::Blocks IDE installed
+2. Open the project file `gadgetshop.cbp`
+3. Build and run the project (F9 or Build and Run button)
 
 ## Overview
 
@@ -95,11 +101,6 @@ This project implements a complete gadget shop management system using Object-Or
   - `AdminUsernamePass.txt`: Admin credentials
   - `Profit.txt`: Profit tracking
 
-## How to Run
-
-1. Ensure you have Code::Blocks IDE installed
-2. Open the project file `gadgetshop.cbp`
-3. Build and run the project (F9 or Build and Run button)
 
 ## User Interface
 
