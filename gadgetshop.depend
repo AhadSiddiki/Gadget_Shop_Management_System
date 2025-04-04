@@ -1,0 +1,729 @@
+# depslib dependency file v1.0
+1678347279 source:c:\users\user\desktop\doordiekillorbekilled\company\account.cpp
+	"Account.h"
+	<string.h>
+
+1678347465 c:\users\user\desktop\doordiekillorbekilled\company\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678708313 source:c:\users\user\desktop\doordiekillorbekilled\company\main.cpp
+	<bits/stdc++.h>
+	"CustomerList.h"
+	"Admin.h"
+
+1678357597 c:\users\user\desktop\doordiekillorbekilled\company\retailer.h
+	"Account.h"
+
+1678689178 source:c:\users\user\desktop\doordiekillorbekilled\company\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678696079 source:c:\users\user\desktop\doordiekillorbekilled\company\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1678358669 c:\users\user\desktop\doordiekillorbekilled\company\wholesaler.h
+	"Account.h"
+
+1678779405 source:c:\users\user\desktop\doordiekillorbekilled\company\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678372430 c:\users\user\desktop\doordiekillorbekilled\company\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678694033 source:c:\users\user\desktop\doordiekillorbekilled\company\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678789187 c:\users\user\desktop\doordiekillorbekilled\company\employee.h
+
+1678699407 source:c:\users\user\desktop\doordiekillorbekilled\company\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678313439 c:\users\user\desktop\doordiekillorbekilled\company\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678734442 source:c:\users\user\desktop\doordiekillorbekilled\company\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678354255 c:\users\user\desktop\doordiekillorbekilled\company\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678779283 source:c:\users\user\desktop\doordiekillorbekilled\company\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678709417 c:\users\user\desktop\doordiekillorbekilled\company\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678778723 source:c:\users\user\desktop\doordiekillorbekilled\company\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678351189 c:\users\user\desktop\doordiekillorbekilled\company\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678347279 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\account.cpp
+	"Account.h"
+	<string.h>
+
+1678347465 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678919534 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678351189 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678908626 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\retailer.h
+	"Account.h"
+
+1678908426 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\wholesaler.h
+	"Account.h"
+
+1678918870 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678789187 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\employee.h
+
+1678313439 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678354255 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678911138 c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678911283 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678902055 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678902055 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678708313 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\main.cpp
+	<bits/stdc++.h>
+	"CustomerList.h"
+	"Admin.h"
+
+1678919391 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678896428 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678908627 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678908426 source:c:\users\user\desktop\ppppppp\doordiekillorbekilled\company\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1678347280 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\account.cpp
+	"Account.h"
+	<string.h>
+
+1678347466 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678919536 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678351190 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678908628 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\retailer.h
+	"Account.h"
+
+1678908428 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\wholesaler.h
+	"Account.h"
+
+1678918872 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1702224030 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\employee.h
+
+1678313440 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678354256 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678911140 c:\users\protik\downloads\compressed\doordiekillorbekilled\company\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678911284 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678902056 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678902056 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678708314 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\main.cpp
+	<bits/stdc++.h>
+	"CustomerList.h"
+	"Admin.h"
+
+1678919392 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678896430 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678908628 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678908428 source:c:\users\protik\downloads\compressed\doordiekillorbekilled\company\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1678296880 source:c:\users\ahad siddiki\desktop\gadget shop\account.cpp
+	"Account.h"
+	<string.h>
+
+1678297066 c:\users\ahad siddiki\desktop\gadget shop\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678872736 source:c:\users\ahad siddiki\desktop\gadget shop\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678300790 c:\users\ahad siddiki\desktop\gadget shop\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678861828 c:\users\ahad siddiki\desktop\gadget shop\retailer.h
+	"Account.h"
+
+1678861628 c:\users\ahad siddiki\desktop\gadget shop\wholesaler.h
+	"Account.h"
+
+1678872072 c:\users\ahad siddiki\desktop\gadget shop\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1702173630 c:\users\ahad siddiki\desktop\gadget shop\employee.h
+
+1678263040 c:\users\ahad siddiki\desktop\gadget shop\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678303856 c:\users\ahad siddiki\desktop\gadget shop\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864340 c:\users\ahad siddiki\desktop\gadget shop\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864484 source:c:\users\ahad siddiki\desktop\gadget shop\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678855256 source:c:\users\ahad siddiki\desktop\gadget shop\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678855256 source:c:\users\ahad siddiki\desktop\gadget shop\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1707593083 source:c:\users\ahad siddiki\desktop\gadget shop\main.cpp
+	<bits/stdc++.h>
+	"CustomerList.h"
+	"Admin.h"
+
+1678872592 source:c:\users\ahad siddiki\desktop\gadget shop\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678849630 source:c:\users\ahad siddiki\desktop\gadget shop\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678861828 source:c:\users\ahad siddiki\desktop\gadget shop\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678861628 source:c:\users\ahad siddiki\desktop\gadget shop\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1678296880 source:e:\files\1\gadget shop\account.cpp
+	"Account.h"
+	<string.h>
+
+1678297066 e:\files\1\gadget shop\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678872736 source:e:\files\1\gadget shop\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678300790 e:\files\1\gadget shop\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678861828 e:\files\1\gadget shop\retailer.h
+	"Account.h"
+
+1678861628 e:\files\1\gadget shop\wholesaler.h
+	"Account.h"
+
+1678872072 e:\files\1\gadget shop\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1702173630 e:\files\1\gadget shop\employee.h
+
+1678263040 e:\files\1\gadget shop\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678303856 e:\files\1\gadget shop\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864340 e:\files\1\gadget shop\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864484 source:e:\files\1\gadget shop\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678855256 source:e:\files\1\gadget shop\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678855256 source:e:\files\1\gadget shop\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1707593083 source:e:\files\1\gadget shop\main.cpp
+	<bits/stdc++.h>
+	"CustomerList.h"
+	"Admin.h"
+
+1678872592 source:e:\files\1\gadget shop\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678849630 source:e:\files\1\gadget shop\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678861828 source:e:\files\1\gadget shop\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678861628 source:e:\files\1\gadget shop\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1678296880 source:d:\files\1\gadget shop\account.cpp
+	"Account.h"
+	<string.h>
+
+1678297066 d:\files\1\gadget shop\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678872736 source:d:\files\1\gadget shop\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678300790 d:\files\1\gadget shop\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678861828 d:\files\1\gadget shop\retailer.h
+	"Account.h"
+
+1678861628 d:\files\1\gadget shop\wholesaler.h
+	"Account.h"
+
+1678872072 d:\files\1\gadget shop\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1702173630 d:\files\1\gadget shop\employee.h
+
+1678263040 d:\files\1\gadget shop\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678303856 d:\files\1\gadget shop\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864340 d:\files\1\gadget shop\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864484 source:d:\files\1\gadget shop\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678855256 source:d:\files\1\gadget shop\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678855256 source:d:\files\1\gadget shop\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678872592 source:d:\files\1\gadget shop\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678849630 source:d:\files\1\gadget shop\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678861828 source:d:\files\1\gadget shop\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678861628 source:d:\files\1\gadget shop\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
+1743796071 source:d:\files\1\gadget shop\main.cpp
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+	"Admin.h"
+
+1678296880 source:d:\files\1\gadget_shop\account.cpp
+	"Account.h"
+	<string.h>
+
+1678297066 d:\files\1\gadget_shop\account.h
+	<bits/stdc++.h>
+	<string.h>
+
+1678872736 source:d:\files\1\gadget_shop\admin.cpp
+	"Admin.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678300790 d:\files\1\gadget_shop\admin.h
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+
+1678861828 d:\files\1\gadget_shop\retailer.h
+	"Account.h"
+
+1678861628 d:\files\1\gadget_shop\wholesaler.h
+	"Account.h"
+
+1678872072 d:\files\1\gadget_shop\product.h
+	"Wholesaler.h"
+	"Retailer.h"
+
+1702173630 d:\files\1\gadget_shop\employee.h
+
+1678263040 d:\files\1\gadget_shop\employeelist.h
+	"Employee.h"
+	<bits/stdc++.h>
+
+1678303856 d:\files\1\gadget_shop\productlist.h
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1678864340 d:\files\1\gadget_shop\customerlist.h
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	<bits/stdc++.h>
+
+1743798652 source:d:\files\1\gadget_shop\customerlist.cpp
+	"CustomerList.h"
+	<bits/stdc++.h>
+	"Account.h"
+	"Wholesaler.h"
+	"Retailer.h"
+	"ProductList.h"
+
+1678855256 source:d:\files\1\gadget_shop\employee.cpp
+	<bits/stdc++.h>
+	"Employee.h"
+
+1678855256 source:d:\files\1\gadget_shop\employeelist.cpp
+	"EmployeeList.h"
+	"Employee.h"
+	<bits/stdc++.h>
+
+1743796071 source:d:\files\1\gadget_shop\main.cpp
+	<bits/stdc++.h>
+	"Account.h"
+	"Retailer.h"
+	"Wholesaler.h"
+	"Product.h"
+	"Employee.h"
+	"EmployeeList.h"
+	"ProductList.h"
+	"CustomerList.h"
+	"Admin.h"
+
+1678872592 source:d:\files\1\gadget_shop\product.cpp
+	<bits/stdc++.h>
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678849630 source:d:\files\1\gadget_shop\productlist.cpp
+	<bits/stdc++.h>
+	"ProductList.h"
+	"Product.h"
+	"Wholesaler.h"
+	"Retailer.h"
+
+1678861828 source:d:\files\1\gadget_shop\retailer.cpp
+	<bits/stdc++.h>
+	"Retailer.h"
+
+1678861628 source:d:\files\1\gadget_shop\wholesaler.cpp
+	<bits/stdc++.h>
+	"Wholesaler.h"
+
